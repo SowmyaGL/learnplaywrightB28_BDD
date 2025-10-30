@@ -12,8 +12,4 @@ Feature Description
     And user enter lastname as "G"
     And user clicks on save Button
     Then user should get success Message
-
-
-
-
    
